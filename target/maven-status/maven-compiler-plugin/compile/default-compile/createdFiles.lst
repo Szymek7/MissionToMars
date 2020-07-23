@@ -1,0 +1,7 @@
+control\Main.class
+entity\Item.class
+entity\U2.class
+control\Simulation.class
+entity\SpaceShip.class
+entity\Rocket.class
+entity\U1.class
